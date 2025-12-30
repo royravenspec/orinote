@@ -1,2 +1,2 @@
 # orinote
-A calm place to study, plan, and think
+A calm place to study
